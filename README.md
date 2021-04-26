@@ -4,4 +4,3 @@ The objective of this project is building a Restricted Boltzmann Machine program
 - Semi-supervised learning. 
 - Experiment on MNIST data for evaluating classification performances.
 
-R Notebook: https://colab.research.google.com/drive/1CzhqO5HJzsofEayTbeUjUs9ujwOz8ASt?usp=sharing
